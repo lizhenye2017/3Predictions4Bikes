@@ -7,8 +7,5 @@
 <li>In the data folder, train_data.csv is the training data and test_data.csv is the test data.</li>  
 <li>The predictions of TNN-BEATS are shown in pictures as follow: </li>
 </ol>
-<image>
-![image](https://github.com/SAKURAGI01/3Predictions4Bikes/blob/main/images/240h_prediction_vs_ground_truth_samples_subplots.png)
-![image](https://github.com/SAKURAGI01/3Predictions4Bikes/blob/main/images/240h_prediction_vs_ground_truth_samples_subplots.png)
-
-</image>
+![图片1描述](https://raw.githubusercontent.com/SAKURAGI01/3Predictions4Bikes/main/images/240h_prediction_vs_ground_truth_samples_subplots.png)
+![图片2描述](https://raw.githubusercontent.com/SAKURAGI01/3Predictions4Bikes/main/images/240h_prediction_vs_ground_truth_samples_subplots.png)
