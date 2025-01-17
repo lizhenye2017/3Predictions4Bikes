@@ -7,6 +7,5 @@
 <li>In the data folder, train_data.csv is the training data and test_data.csv is the test data.</li>  
 <li>The predictions of TNN-BEATS are shown in pictures as follow: </li>
 </ol>
-![image](https://github.com/user-attachments/assets/84e15f04-aed0-4727-ac46-e0ad08e7e8d6)
-![image](https://github.com/user-attachments/assets/2e87028d-995f-4ee5-b8f7-4f4e8550e494)
-
+![图片描述](https://github.com/user-attachments/assets/84e15f04-aed0-4727-ac46-e0ad08e7e8d6)
+![图片描述](https://github.com/user-attachments/assets/2e87028d-995f-4ee5-b8f7-4f4e8550e494)
