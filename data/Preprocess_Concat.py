@@ -36,4 +36,3 @@ file_paths = [
 ]
 output_file_path = 'data/processed_data/信息合并.csv'  # 新文件的保存路径
 merge_csv_files(file_paths, output_file_path)
-#
