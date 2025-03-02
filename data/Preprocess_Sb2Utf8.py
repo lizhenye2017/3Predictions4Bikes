@@ -23,7 +23,8 @@ def convert_csv_encoding(input_file, output_file):
     # 保存为UTF-8编码的CSV文件
     df.to_csv(output_file, index=False, encoding='utf-8')
 
-# 使用示例
+
 input_file = 'data/ori_data/全省实时电价.csv'
 output_file = '全省实时电价_utf8.csv'
 convert_csv_encoding(input_file, output_file)
+#
