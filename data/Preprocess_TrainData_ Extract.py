@@ -1,20 +1,5 @@
 import pandas as pd
 
-#test git
-#test git
-#test git
-#test git
-#test git
-#test git
-#test git
-#test git
-#test git
-#test git
-#test git
-#test git
-
-
-
 def extract_columns(input_file_path, output_file_path, columns_to_extract):
     """
     从CSV文件中提取指定列并保存到新的CSV文件中
